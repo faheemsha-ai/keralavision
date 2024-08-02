@@ -1,6 +1,9 @@
 *{
     margin: 0;
 }
+body{
+    margin: 0;
+}
 .nav
 {
     display: flex;
@@ -183,4 +186,60 @@
 }
 .textpack{
     text-align: center;
+}
+.package1{
+    display: flex;
+    border-radius: 6px;
+    padding: 20px;
+    color: #fff;
+    align-items: center;
+    font-size:large ;
+}
+.card-body1{
+    background: #000;
+    padding: 25px;
+    width: 300px;
+    text-align: center;
+    border-radius: 8px
+}
+.card-body2{
+    background: #c82424;
+    padding: 25px;
+    margin-right: 2%;
+    text-align: center;
+    margin-right: 24px;
+    width: 300px;
+    border-radius: 8px;
+}
+.card-body3{
+    background: #1a7c15;
+    margin-right: 2%;
+    width: 300px;
+    text-align: center;
+    padding: 25px;
+    border-radius: 8px;
+}
+.card-body4{
+    background: #205288;
+    text-align: center;
+    width: 300px;
+    padding: 25px;
+    border-radius: 8px;
+    margin-right: 2%;
+}
+.part3{
+    text-align: center;
+}
+.features{
+    background-color: whitesmoke;
+    width: 100%;
+    text-align: center;
+}
+.internet{
+    font-size: xx-large;
+    font-size: 150px;
+}
+.feat1{
+    display: flex;
+    background: whitesmoke;
 }
